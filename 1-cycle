@@ -1,1 +1,8 @@
-21
+const minNumber = 15;
+const maxNumber = 30;
+let i=minNumber;
+
+while(i<=maxNumber) {
+  if(i/2!=Math.floor(i/2)) console.log(i);
+  i++;
+}
