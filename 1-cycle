@@ -1,3 +1,5 @@
+//Выведите все нечетные числа из диапазона [15, 30] включая крайние числа.
+
 const minNumber = 15;
 const maxNumber = 30;
 let i=minNumber;
